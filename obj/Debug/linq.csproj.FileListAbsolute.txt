@@ -1,0 +1,10 @@
+C:\Users\305-1\Desktop\gayfullin\linq\bin\Debug\linq.exe.config
+C:\Users\305-1\Desktop\gayfullin\linq\bin\Debug\linq.exe
+C:\Users\305-1\Desktop\gayfullin\linq\bin\Debug\linq.pdb
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.csproj.AssemblyReference.cache
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.Form1.resources
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.Properties.Resources.resources
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.csproj.GenerateResource.cache
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.csproj.CoreCompileInputs.cache
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.exe
+C:\Users\305-1\Desktop\gayfullin\linq\obj\Debug\linq.pdb
